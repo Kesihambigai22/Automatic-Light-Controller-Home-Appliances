@@ -72,7 +72,7 @@ The system is designed for:
 
 ---
 
-## 🛠️ Hardware Prototype
+##  Hardware Prototype
 
 ### PCB Prototype
 
@@ -110,3 +110,48 @@ Automatic-Light-Controller/
 │
 ├── LICENSE
 └── README.md
+
+
+##  Advantages
+
+- Low cost
+- No programming required
+- Energy efficient
+- Easy to build
+- Reliable operation
+
+---
+
+##  Limitations
+
+- Limited precision
+- Manual calibration needed
+- No wireless control
+- Difficult to scale
+
+---
+
+##  Future Scope
+
+- Add LDR for ambient light detection
+- Add timer circuit
+- IoT integration
+- Wireless switching
+- Smart home connectivity
+
+---
+
+##  References
+
+1. Soyoung Hwang and Donghui Yu, IJSEIA, 2012.
+2. Richu Sam Alex, IJEAT, 2014.
+3. Raja R, Dr. K. Uday Kumar, IJAREEIE, 2014.
+4. K.Subramanyam et al., IJERA, 2014.
+
+---
+
+##  Author
+
+Kesihambigai  
+B.Tech ECE  
+VIT Vellore
