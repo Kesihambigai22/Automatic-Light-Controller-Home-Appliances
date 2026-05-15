@@ -46,12 +46,6 @@ Project presentation including:
 
 ---
 
-## Supporting Images
-
-![BLOCK](doc/block.png)
-![FLOWCHART](flowchart)
-
----
 
 ## Purpose
 
