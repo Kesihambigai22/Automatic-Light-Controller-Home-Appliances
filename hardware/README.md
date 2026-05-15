@@ -6,7 +6,7 @@ This folder contains the hardware design, circuit implementation, and prototype 
 
 ## Circuit Diagram
 
-`circuit.png`
+
 
 The circuit consists of:
 - IR sensor pair
@@ -21,14 +21,14 @@ The circuit consists of:
 ## Hardware Prototype
 
 ### PCB Prototype
-`hardware.png`
+
 
 Custom assembled hardware implementation on PCB.
 
 ---
 
 ### Breadboard Prototype
-`result.png`
+
 
 Initial breadboard testing setup used for verification and debugging.
 
