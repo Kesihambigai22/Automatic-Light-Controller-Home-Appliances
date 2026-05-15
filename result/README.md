@@ -6,8 +6,6 @@ This folder contains the project output images and demonstration video.
 
 ##  Result Image
 
-`result.png`
-
 Shows:
 - Breadboard implementation
 - Working relay system
@@ -17,8 +15,6 @@ Shows:
 ---
 
 ##  Demo Video
-
-`Video Project.mp4`
 
 The demo video demonstrates:
 - Automatic light switching
