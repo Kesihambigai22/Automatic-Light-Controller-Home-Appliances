@@ -1,6 +1,6 @@
 
 ---
-# `doc/README.md`
+# doc/README.md
 
 ```md
 # Documentation
@@ -10,7 +10,7 @@ This folder contains all project documentation files related to the Automatic Li
 ## Files Included
 
 ### 1. Technical Report
-`report.docx`
+## report.docx
 
 Contains:
 - Introduction
@@ -54,8 +54,8 @@ Project presentation including:
 
 | File | Description |
 |---|---|
-| `block.png` | Block diagram |
-| `flowchart.png` | System flowchart |
+| ![BLOCK](doc/block.png) | Block diagram |
+| ![FLOWCHART](flowchart) | System flowchart |
 
 ---
 
