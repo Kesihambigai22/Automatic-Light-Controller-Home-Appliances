@@ -59,7 +59,7 @@ Project presentation including:
 
 ---
 
-##  Purpose
+## Purpose
 
 These documents provide complete technical details and explanation of the project for:
 - Academic submission
