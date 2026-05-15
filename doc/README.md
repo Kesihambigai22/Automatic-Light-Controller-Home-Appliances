@@ -48,8 +48,6 @@ Project presentation including:
 
 ## Supporting Images
 
-| File | Description |
-|---|---|
 ![BLOCK](doc/block.png)
 ![FLOWCHART](flowchart)
 
