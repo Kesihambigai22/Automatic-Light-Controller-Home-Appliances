@@ -54,8 +54,8 @@ Project presentation including:
 
 | File | Description |
 |---|---|
-| ![BLOCK](doc/block.png) | Block diagram |
-| ![FLOWCHART](flowchart) | System flowchart |
+![BLOCK](doc/block.png)
+![FLOWCHART](flowchart)
 
 ---
 
